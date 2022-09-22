@@ -78,6 +78,7 @@ tr:nth-child(odd)
 .edi:hover{
     background-color: darksalmon;
     text-shadow: 2px 2px 5px rgb(51, 0, 255);
+    border-style: dotted;
 }
 .ser{
     color: rgb(14, 138, 68);
@@ -88,6 +89,7 @@ tr:nth-child(odd)
 .ser:hover{
     background-color: rgb(68, 150, 68);
     text-shadow: 2px 2px 5px rgb(255, 0, 170);
+    border-style: groove;
 }
 .pol{
     color: darkred;
@@ -97,4 +99,5 @@ tr:nth-child(odd)
 .pol:hover{
     background-color: greenyellow;
     text-shadow: 2px 2px 5px rgb(0, 110, 255);
+    border-style: double;
 }
