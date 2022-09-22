@@ -70,3 +70,31 @@ tr:nth-child(odd)
 {
     background-color: lightcoral;
 }
+.edi{
+    color: darkmagenta;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.edi:hover{
+    background-color: darksalmon;
+    text-shadow: 2px 2px 5px rgb(51, 0, 255);
+}
+.ser{
+    color: rgb(14, 138, 68);
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.ser:hover{
+    background-color: rgb(68, 150, 68);
+    text-shadow: 2px 2px 5px rgb(255, 0, 170);
+}
+.pol{
+    color: darkred;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.pol:hover{
+    background-color: greenyellow;
+    text-shadow: 2px 2px 5px rgb(0, 110, 255);
+}
